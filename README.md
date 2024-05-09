@@ -1,7 +1,18 @@
-- 👋 Hi, I’m @cat658011
-- 👀 I’m interested in Android development
-- 🌱 I’m currently learning C, C++
-- 💞️ I’m collaborate with roynatech2544
-- ⚡ Fun fact: every day killer killing 4 people
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/cat65801/count.svg" />
+</p>
 
-<!--- BTW I femboy --->
+
+<p align="center">
+	<img width="40" src="https://github.githubassets.com/images/spinners/octocat-spinner-64.gif">
+<p align="center"><strong>We didn't receive a proper request from your browser.</strong></p>
+<p align="center">Sorry about that. Please try refreshing and contact us if the problem persists.</p>
+<p align="center">
+	<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Contact Support</a> —
+	<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">GitHub Status</a> —
+	<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">@githubstatus</a>
+</p>
+<p></p>
+<p></p>
+</p>
